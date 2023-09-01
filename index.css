@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 800px;
+        
+}
+
+.body {
+    background-image: url(images/download\ \(3\).jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    align-items: center;
+}
+    
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    padding: 250px 50px 30px;
+    color: darkblue;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    color: coral;
+}
+
+
+a {
+    text-align: center;
+    color: aqua;
+}

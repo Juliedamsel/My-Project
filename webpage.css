@@ -37,9 +37,9 @@ li a {
 }
 
 main {
-    height: 700px;
-    background-color: azure;
     display: flex;
+    height: inherit;
+    background-color: azure;
     justify-content: center;
     align-items: center;
 
@@ -50,7 +50,7 @@ main {
     margin: 0 10px;
 }
 
-.body-image {
+img {
     width: 100%;
     height: auto;
 }
